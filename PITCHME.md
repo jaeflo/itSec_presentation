@@ -1,4 +1,4 @@
-# Projektarbeit IT-Security
+# Projektarbeit
 ### Mit Splunk einen Security Incident bearbeiten
 ---
 ## Inhalt
