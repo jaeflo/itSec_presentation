@@ -4,6 +4,11 @@
 ## Inhalt
 ---
 ## Einleitung
+* Projektbeschreibung
+* Projektziel
+  * Richtziel
+  * Endergebnisse
+  * Erfolgskriterien
 ---
 ## Splunk als SIEM
 ---
