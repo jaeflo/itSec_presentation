@@ -12,6 +12,7 @@
 * zusammengefasst aus: [Projektauftrag](https://www.dropbox.com/s/yvdk3uvz6mm6o99/Projektbeschreibung.pdf?dl=0)
 ---
 ## Splunk als SIEM
+@snap[west sidebar]
 * Was ist SIEM?
 * Splunk ist vor allem ein Produkt, aber auch ein Unternehmen
   * Enterprise
@@ -20,6 +21,7 @@
   * Cloud
   * Enterprise Security
   * ....
+@snapend
 @snap[east sidebar]
 ![Splunk-Overview](assets/img/splunk_overwiev.png)
 @snapend
