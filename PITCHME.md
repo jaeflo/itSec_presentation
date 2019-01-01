@@ -52,3 +52,11 @@ web application vulnerabilities?
 * Write-Up als [Blog](https://jaeflo.github.io/2018/analyse-securityincident-with-splunk/) &#10004;
 * Pr&auml;sentation fristgerecht &#10004;
 * Kompetenzkarten fristgerecht &#10004;
+
+@ul
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
