@@ -29,6 +29,9 @@
 +++
 ### eine mögliche Splunk-Umgebung
 ![Splunk_Enviroment](assets/img/splunk_enviroment.png)
++++
+### Wie arbeitet Splunk?
+![Splunk_Forwarder](assets/img/splunk_forwarder.png) 
 ---
 ## Das Projekt.....
 * Fragensammlung -> Capture the flag
