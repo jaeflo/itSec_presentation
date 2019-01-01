@@ -12,7 +12,7 @@
 * zusammengefasst aus: [Projektauftrag](https://www.dropbox.com/s/yvdk3uvz6mm6o99/Projektbeschreibung.pdf?dl=0)
 ---
 ## Splunk als SIEM
-* Was ist SIEM?
+* Was ist ein "SIEM"?
 * Splunk ist vor allem ein Produkt, aber auch ein Unternehmen
   * Enterprise
   * Light
@@ -22,7 +22,15 @@
   * ....
 +++
 ![Splunk-Overview](assets/img/splunk_overwiev.png)
++++
+![Splunk_Enviroment](assets/img/splunk_enviroment.jpg)
 ---
-## Demo
+## Das Projekt.....
+* Fragensammlung -> Capture the flag
+  * 32 Fragen wie: `What is the likely IP address of someone from the Po1s0n1vy group scanning imreallynotbatman.com for web application vulnerabilities?`
+* [Zugang auf Zielsystem](https://splunk.stoerchl.ch:8000/de-DE/account/login?return_to=%2Fde-DE%2F)
+* How to start? Let's ask Google ;-)
+  * Gute Dokumentation unter (https://docs.splunk.com/Documentation/Splunk)  
+* Fragen sind mit Punkten quantifiziert -> wenig Punkte -> leichter zu beantworten....
 ---
 ## Fazit
