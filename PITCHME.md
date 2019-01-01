@@ -43,7 +43,7 @@ Po1s0n1vy group scanning imreallynotbatman.com for
 web application vulnerabilities?
 ```
 * [Zugang auf Zielsystem](https://splunk.stoerchl.ch:8000/de-DE/account/login?return_to=%2Fde-DE%2F)
-* Gute Dokumentation unter [https://docs.splunk.com/Documentation/Splunk] 
+* [Splunk-Dokumentation](https://docs.splunk.com/Documentation/Splunk) 
 * Fragen sind mit Punkten quantifiziert -> wenig Punkte -> leichter zu beantworten....
 ---
 ## Fazit
