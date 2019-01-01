@@ -21,10 +21,13 @@
   * Enterprise Security
   * ....
 +++
+### Splunk-Prozess
 ![Splunk-Process](assets/img/splunk_process.png)
 +++
+### Masken und Widgets
 ![Splunk-Overview](assets/img/splunk_overwiev.png)
 +++
+### eine mögliche Splunk-Umgebung
 ![Splunk_Enviroment](assets/img/splunk_enviroment.png)
 ---
 ## Das Projekt.....
