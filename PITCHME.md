@@ -32,6 +32,7 @@
 +++
 ### Wie arbeitet Splunk?
 ![Splunk_Forwarder](assets/img/splunk_forwarder.png) 
+<br>
 ---
 ## Das Projekt.....
 * Fragensammlung -> Capture the flag
