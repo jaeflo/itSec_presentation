@@ -46,4 +46,6 @@ web application vulnerabilities?
 * [Splunk-Dokumentation](https://docs.splunk.com/Documentation/Splunk) 
 * Fragen sind mit Punkten quantifiziert -> wenig Punkte -> leichter zu beantworten....
 ---
-## Fazit
+## Resultat
+* Es wurden 11 von 32 Fragen beantwortet
+* Write-Up als [Blog](https://jaeflo.github.io/2018/analyse-securityincident-with-splunk/)
