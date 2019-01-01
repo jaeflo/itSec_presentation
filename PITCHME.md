@@ -47,6 +47,8 @@ web application vulnerabilities?
 * Fragen sind mit Punkten quantifiziert -> wenig Punkte -> leichter zu beantworten....
 ---
 ## Resultat
-@transition[zoom-in fade-out]
+* Projektbeschreibung fristgerecht &#10004;
 * Es wurden 11 von 32 Fragen beantwortet &#10004;
 * Write-Up als [Blog](https://jaeflo.github.io/2018/analyse-securityincident-with-splunk/) &#10004;
+* Pr&auml;sentation fristgerecht &#10004;
+* Kompetenzkarten fristgerecht &#10004;
