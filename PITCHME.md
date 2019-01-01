@@ -21,9 +21,11 @@
   * Enterprise Security
   * ....
 +++
+![Splunk-Process](assets/img/splunk_process.png)
++++
 ![Splunk-Overview](assets/img/splunk_overwiev.png)
 +++
-![Splunk_Enviroment](assets/img/splunk_enviroment.jpg)
+![Splunk_Enviroment](assets/img/splunk_enviroment.png)
 ---
 ## Das Projekt.....
 * Fragensammlung -> Capture the flag
@@ -34,8 +36,7 @@ Po1s0n1vy group scanning imreallynotbatman.com for
 web application vulnerabilities?
 ```
 * [Zugang auf Zielsystem](https://splunk.stoerchl.ch:8000/de-DE/account/login?return_to=%2Fde-DE%2F)
-* How to start? Let's ask Google ;-)
-  * Gute Dokumentation unter (https://docs.splunk.com/Documentation/Splunk)  
+* Gute Dokumentation unter (https://docs.splunk.com/Documentation/Splunk)  
 * Fragen sind mit Punkten quantifiziert -> wenig Punkte -> leichter zu beantworten....
 ---
 ## Fazit
