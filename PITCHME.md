@@ -56,5 +56,5 @@ web application vulnerabilities?
 * Es wurden 11 von 32 Fragen beantwortet &#10004;
 * Write-Up als [Blog](https://jaeflo.github.io/2018/analyse-securityincident-with-splunk/) &#10004;
 * Pr&auml;sentation fristgerecht &#10004;
-* Kompetenzkarten fristgerecht &#10004;
+* [Kompetenzkarten](https://www.dropbox.com/s/dcbdg69wbtfz0vp/Kompetenzkarten.pdf?dl=0) fristgerecht &#10004;
 @ulend
